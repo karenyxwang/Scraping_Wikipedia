@@ -14,9 +14,9 @@ Research questions include the follows:
 
     Write a function ​get_featured_biographies() ​to scrape the contents of the list of featured articles and returns a list of names for all featured articles that are also biographies. Then, answer the following questions:
 
-- How did you determine which featured articles were biographies?
+    - How did you determine which featured articles were biographies?
 
-- What percentage of featured articles are biographies?
+    - What percentage of featured articles are biographies?
 
 2. Scraping a dataset
 
@@ -28,19 +28,19 @@ Research questions include the follows:
     
     Using regular expressions, write a new method ​get_pronouns(text)​that determines the most common gender of pronouns in a given string of any length. Typically but not always, the three ways gender are marked in pronouns are:
 
-- Male: he/his/him
+    - Male: he/his/him
 
-- Female: she/her/hers
+    - Female: she/her/hers
 
-- Plural, or singular non-binary: they/them/their
+    - Plural, or singular non-binary: they/them/their
 
     Answer the following questions abut your calculations:
 
-- What are the drawbacks of your approach, and what types of content are excluded or missed because of the choices you made?
-
-- What percentage of biographies use he/his pronouns, she/her, or they/them pronouns?
-
-- What percentage of pages did your code fail to parse, or have unclear gender? Why?
+    - What are the drawbacks of your approach, and what types of content are excluded or missed because of the choices you made?
+    
+    - What percentage of biographies use he/his pronouns, she/her, or they/them pronouns?
+    
+    - What percentage of pages did your code fail to parse, or have unclear gender? Why?
 
 4. Additional analysis
 
@@ -52,13 +52,13 @@ Research questions include the follows:
 
     To go along with the file, write technical documentation for how the file is constructed; your intended audience is classmates or peers that could work with you. The documentation should include:
 
-- Explanation of the meaning of each column in your CSV file.
+    - Explanation of the meaning of each column in your CSV file.
 
-- Explanation of what data was not successfully scraped by your dataset-building process, and
+    - Explanation of what data was not successfully scraped by your dataset-building process, and
 what the limitations are on any future analyses.
 
-- Instructions on how other data scientists could use your parsing code in their own work (you
+    - Instructions on how other data scientists could use your parsing code in their own work (you
 may include Python code samples if necessary).
 
-- Sample code that allows future users to load your file using Python and instructions on how
+    - Sample code that allows future users to load your file using Python and instructions on how
 to run a basic analysis to confirm that they successfully downloaded the dataset.

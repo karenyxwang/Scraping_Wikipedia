@@ -8,6 +8,8 @@ Wikipedia makes all public edits in the history of the wiki available through a 
 
 ​https://www.mediawiki.org/wiki/API:Main_page​.
 
+Research questions include the follows:
+
 1. Individual Page Scraping
 
     Write a function ​get_featured_biographies() ​to scrape the contents of the list of featured articles and returns a list of names for all featured articles that are also biographies. Then, answer the following questions:

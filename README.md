@@ -1,4 +1,4 @@
-# Scraping Wikipedia
+# Wikipedia Scraping
 
 This project uses HTTP requests to receive JSON objects, and clean real HTML data from the open web. In particular, I will be scraping content from Wikipedia. The English-language Wikipedia has over 5 million articles, and about 0.1% of those have been reviewed by the community as ​Featured Articles​. The full list of all featured articles is at the following URL:
 
